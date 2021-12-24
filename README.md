@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter Turner from London
-- 👀 I’m interested in software development, AI/ML, and travelling to al corners of the world
+- 👀 I’m interested in software development, AI/ML, and travelling to all corners of the world
 - 🌱 I’m currently learning to cook, AWS and AI/ML
 - You can contact me via Twitter @Syntax753
 
